@@ -9,7 +9,6 @@ Statistical Analysis & Hypothesis Testing
 Data Visualization
 Git & GitHub
 
-📂 Repository Structure
 🔹 Task-1: Exploratory Data Analysis
 Cleaned and preprocessed raw dataset
 Performed descriptive statistics and visual analysis
