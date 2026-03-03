@@ -25,11 +25,15 @@ Defined core KPIs
 Performed in-depth business analysis
 Built an interactive Power BI dashboard
 Visualized key metrics for decision-making
+File included: Burnout_Dashboard.pbix
+
+![Dashboard Overview](Burnout dashboard.jpg)
 
 🔹 Task-4: Data Storytelling & Statistical Validation
 Converted analysis into structured business narrative
 Applied statistical reasoning to validate findings
 Presented insights in a clear and professional format
+Presentation included: Task-4 ppt.pdf
 
 📈 Key Skills Demonstrated
 Data Cleaning & Preprocessing
